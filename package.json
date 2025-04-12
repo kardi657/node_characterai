@@ -30,10 +30,10 @@
     "json-bigint": "^1.0.0",
     "node_characterai": "^1.2.7",
     "node-fetch": "^3.3.0",
-    "puppeteer": "^19.11.1",
+    "puppeteer": "^24.6.1",
     "puppeteer-extra": "^3.3.6",
     "puppeteer-extra-plugin-stealth": "^2.11.2",
-    "uuid": "^9.0.0"
+    "uuid": "^11.1.0"
   },
   "homepage": "https://github.com/realcoloride/node_characterai#readme"
 }
